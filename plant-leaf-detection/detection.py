@@ -76,5 +76,5 @@ def detect_leaves(image):
     cv2.destroyAllWindows()
 
 # Example usage
-image_path = '/home/josh/Downloads/download.jpeg'
+image_path = #image path ' '
 detect_leaves(image_path)
